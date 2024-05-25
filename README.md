@@ -1,1 +1,1 @@
-# naresh-macharam-Forecasting-Cryptocurrency-Prices-Using-Machine-Learning-Techniques
+# Forecasting-Cryptocurrency-Prices-Using-Machine-Learning-Techniques
